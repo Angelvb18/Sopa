@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Bathleship {
-
+     //hola
     static Scanner lea = new Scanner(System.in);
     static Random r = new Random();
 
